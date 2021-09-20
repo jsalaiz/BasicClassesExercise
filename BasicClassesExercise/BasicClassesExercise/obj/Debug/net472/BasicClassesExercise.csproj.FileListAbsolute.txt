@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\bin\Debug\net472\BasicClassesExercise.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\bin\Debug\net472\BasicClassesExercise.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\bin\Debug\net472\BasicClassesExercise.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\obj\Debug\net472\BasicClassesExercise.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\obj\Debug\net472\BasicClassesExercise.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\obj\Debug\net472\BasicClassesExercise.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\obj\Debug\net472\BasicClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\obj\Debug\net472\BasicClassesExercise.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\BasicClassesExercise\BasicClassesExercise\BasicClassesExercise\obj\Debug\net472\BasicClassesExercise.pdb
